@@ -1,0 +1,2 @@
+# Hackintosh
+My EFI Folder
