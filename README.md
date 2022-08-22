@@ -14,7 +14,7 @@
 **OpenCore version**: 0.7.9
 
 ## Notes to self:
-Upon upgrading the cpu remember to change the core count
-update kexts
-ethernet wifi bluetooth not working
-6700xt unsupported
+- [ ] Upon upgrading the cpu remember to change the core count
+- [ ] update kexts
+- [ ] ethernet wifi bluetooth not working
+- [ ] 6700xt STILL unsupported (22/8/22)
